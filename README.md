@@ -2,7 +2,7 @@
   <img src="./GITHUB.png" width="200" alt="Oliver Jackson Logo"/>
 </p>
 
-<h1 align="center">Oliver Jackson</h1>
+<h1 align="center">Oliver Jackson Victor</h1>
 
 <p align="center">
   <b>Cybersecurity Enthusiast • SOC Analyst in Training • IT Student</b>
@@ -11,7 +11,7 @@
 <p align="center">
   <i>Defending systems by day, breaking my own labs by night.</i>
 </p>
----
+
 
  🧠 About Me
 
@@ -28,7 +28,7 @@ Currently focused on:
 - Malware behavior (yes, including trojans 👀)
 
 > I believe security is not about tools — it’s about mindset, curiosity, and asking “what could go wrong?”
----
+
 
  🛠️ Tech Stack & Tools
 
@@ -51,20 +51,15 @@ Currently focused on:
 ![SIEM](https://img.shields.io/badge/SIEM-0A0A0A?style=for-the-badge)
 
 
----
 
- 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socwitholiver&show_icons=true&theme=tokyonight" />
-</p>
----
+
 
 📫 Let’s Connect
 
-- 💼 LinkedIn: *(add your link here)*  
-- 🌐 Portfolio: *(if available)*  
-- 📧 Email: *(optional)*  
+- 💼 LinkedIn:www.linkedin.com/in/oliver-jackson-0b69622bb
+- 🌐 Portfolio: https://oliverjvictor.netlify.app/
+- 📧 Email: oliverjacksonvictor@gmail.com
 
 > Always learning. Always building. Occasionally breaking things (on purpose).
 
