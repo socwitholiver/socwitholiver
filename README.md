@@ -44,6 +44,12 @@ Currently focused on:
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![SIEM](https://img.shields.io/badge/SIEM-0A0A0A?style=for-the-badge)
+
 
 ---
 
