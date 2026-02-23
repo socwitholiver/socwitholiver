@@ -39,6 +39,12 @@ Currently focused on:
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+
 ---
 
  📊 GitHub Activity
