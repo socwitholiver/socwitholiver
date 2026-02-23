@@ -37,6 +37,8 @@ Currently focused on:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 ---
 
  📊 GitHub Activity
