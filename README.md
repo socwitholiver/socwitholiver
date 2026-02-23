@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./GITHUB.png" width="180" alt="Oliver Jackson Logo"/>
+  <img src="./GITHUB.png" width="200" alt="Oliver Jackson Logo"/>
 </p>
 
 <h1 align="center">Oliver Jackson</h1>
