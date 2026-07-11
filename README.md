@@ -156,14 +156,23 @@ A gamified CLI that scores password strength via entropy and regex pattern match
 <!-- ======================================================================= -->
 ### 📈 &nbsp;By the numbers &nbsp;<sub>· &nbsp;(OJV® — 05)</sub>
 
+<!-- NOTE: the previous cards here used github-readme-stats.vercel.app and
+     github-readme-streak-stats.herokuapp.com — both are shared community
+     services that have been intermittently or fully down (503
+     SERVICE_UNAVAILABLE / DEPLOYMENT_PAUSED) since Dec 2025. Replaced below
+     with shields.io badges, which hit shields' own stable infrastructure
+     and proxy the GitHub API directly — no third-party deployment that can
+     be paused or rate-limited out from under you. -->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=socwitholiver&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=false&bg_color=0C0E13&title_color=22D3EE&text_color=9FB0BC&icon_color=38BDF8&border_color=1B2733" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socwitholiver&layout=compact&langs_count=8&hide_border=false&bg_color=0C0E13&title_color=22D3EE&text_color=9FB0BC&icon_color=38BDF8&border_color=1B2733" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=socwitholiver&hide_border=false&background=0C0E13&border=1B2733&stroke=22D3EE&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=9FB0BC&dates=6D7A85&currStreakNum=E6F6FA&sideNums=E6F6FA" alt="Streak"/>
+![Followers](https://img.shields.io/github/followers/socwitholiver?style=for-the-badge&labelColor=0C0E13&color=22D3EE&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/socwitholiver&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&labelColor=0C0E13&color=38BDF8)
+![Primary Stack](https://img.shields.io/badge/Primary_stack-Python_%C2%B7_DAX-08090D?style=for-the-badge&labelColor=0C0E13&color=22D3EE)
 
 </div>
+
+<sub>Language/tooling breakdown per project is in **Selected work** above — Python (PrivGuard, PVAULT, PassQuest), Power BI/DAX (Airport Operations Analytics). More reliable signal than an aggregate chart, and it never goes down.</sub>
 
 <br/>
 
